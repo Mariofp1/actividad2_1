@@ -2,7 +2,7 @@
 
 ## Ejercicio 1
 https://github.com/Mariofp1/blog
-
+content/Ejercicio 1.md
 ## Ejercicio 2
 https://github.com/Mariofp1/Lagrange
 
